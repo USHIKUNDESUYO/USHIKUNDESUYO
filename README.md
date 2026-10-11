@@ -19,6 +19,12 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 
 → https://invaders.co.jp/yuhitsu/
 
+## 無料で試せる会計ツール
+
+- [月次照合](https://github.com/USHIKUNDESUYO/monthly-reconcile)：帳簿と請求のCSVから照合候補を出し、確認した判断を保存できます。ブラウザーで使うMITライセンスのツールです。[入手先](https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/tag/v0.1.0-preview.20261011-guided.3)
+- [YUHITSU全機能無料版](https://github.com/USHIKUNDESUYO/yuhitsu-free)：Windows向け。監査調書の下書き、開示チェック、CSV照合、OCRを利用できます。[使い方](https://invaders.co.jp/yuhitsu/guide/)と[利用条件](https://github.com/USHIKUNDESUYO/yuhitsu-free/blob/main/LICENSE.txt)を確認してください。
+- [shiwake-mcp](https://github.com/USHIKUNDESUYO/shiwake-mcp)：仕訳をルールで一次スクリーニングします。AIツールから呼び出すための接続方式MCPに対応し、MITライセンスで公開しています。
+
 ## 🏯 SEKISHO（関所）
 
 **AIは承認しない。反証だけを返すデプロイの関所。**

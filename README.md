@@ -25,7 +25,9 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 - [YUHITSU全機能無料版](https://github.com/USHIKUNDESUYO/yuhitsu-free)：Windows向け。監査調書の下書き、開示チェック、CSV照合、OCRを利用できます。[使い方](https://invaders.co.jp/yuhitsu/guide/)と[利用条件](https://github.com/USHIKUNDESUYO/yuhitsu-free/blob/main/LICENSE.txt)を確認してください。
 - [shiwake-mcp](https://github.com/USHIKUNDESUYO/shiwake-mcp)：仕訳をルールで一次スクリーニングします。AIツールから呼び出すための接続方式MCPに対応し、MITライセンスで公開しています。
 
-3製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。2026年10月11日時点の情報です。
+- [監査利息デモ](https://github.com/USHIKUNDESUYO/audit-interest-demo)：架空データで支払利息の推定額と計上額の差を確かめる、MITライセンスの教材です。Pythonの標準ライブラリだけで動きます。
+
+4製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。2026年10月11日時点の情報です。
 
 ## 🏯 SEKISHO（関所）
 

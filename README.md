@@ -29,7 +29,9 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 
 - [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free)：見本の取引を分類し、人が仕訳を確認してCSV・JSONへ保存できます。モックは外部APIを使わず動き、ソースはMITで再利用できます。[入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261011)
 
-5製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。2026年10月11日時点の情報です。
+- [証憑研究版の評価JSON集計ツール](https://github.com/USHIKUNDESUYO/shohyo-metrics-source)：保存済みJSONを集計するMITの研究用ソースです。Python標準機能だけで動き、OCRとモデル重みは含みません。[入手先](https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/tag/v0.1.0-source-preview.20261011)
+
+6製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。2026年10月11日時点の情報です。
 
 ## 🏯 SEKISHO（関所）
 

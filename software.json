@@ -3,7 +3,7 @@
   "@type": "ItemList",
   "@id": "https://github.com/USHIKUNDESUYO/USHIKUNDESUYO/blob/main/software.json",
   "name": "星野宇潮の無料会計ツール（2026年10月11日確認版）",
-  "numberOfItems": 5,
+  "numberOfItems": 6,
   "itemListOrder": "https://schema.org/ItemListUnordered",
   "itemListElement": [
     {
@@ -141,6 +141,35 @@
         "applicationCategory": "BusinessApplication",
         "downloadUrl": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/download/v0.1.0-preview.20261011/jev-kaikei-free-v0.1.0-preview.20261011.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/jev-kaikei-free"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": [
+          "SoftwareApplication",
+          "SoftwareSourceCode"
+        ],
+        "name": "証憑研究版の評価JSON集計ツール",
+        "url": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source",
+        "description": "保存済みの評価JSONから項目別の正解率と確認が必要な件数を表示する研究用ツールです。Python標準機能だけで動き、OCRとモデル重みは含みません。",
+        "creator": {
+          "@type": "Person",
+          "name": "星野宇潮",
+          "url": "https://invaders.co.jp/members/hoshino-ushio.html"
+        },
+        "isAccessibleForFree": true,
+        "license": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/ad6b043268302152edbfed2f48b22d447bef9399/LICENSE",
+        "softwareVersion": "v0.1.0-source-preview.20261011",
+        "softwareHelp": {
+          "@type": "CreativeWork",
+          "url": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/ad6b043268302152edbfed2f48b22d447bef9399/README.md"
+        },
+        "runtimePlatform": "Python >=3.10 (standard library)",
+        "applicationCategory": "DeveloperApplication",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/download/v0.1.0-source-preview.20261011/shohyo-metrics-source-v0.1.0-source-preview.20261011.zip",
+        "codeRepository": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source"
       }
     }
   ]

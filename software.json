@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://github.com/USHIKUNDESUYO/USHIKUNDESUYO/blob/main/software.json",
+  "name": "星野宇潮の無料会計ツール（2026年10月11日確認版）",
+  "numberOfItems": 3,
+  "itemListOrder": "https://schema.org/ItemListUnordered",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": [
+          "SoftwareApplication",
+          "SoftwareSourceCode"
+        ],
+        "name": "月次照合",
+        "url": "https://github.com/USHIKUNDESUYO/monthly-reconcile",
+        "description": "帳簿と請求のCSVから照合候補を出します。利用者が確認した判断をJSONとCSVに保存できる、MITライセンスのブラウザー用ツールです。",
+        "creator": {
+          "@type": "Person",
+          "name": "星野宇潮",
+          "url": "https://invaders.co.jp/members/hoshino-ushio.html"
+        },
+        "isAccessibleForFree": true,
+        "softwareVersion": "v0.1.0-preview.20261011-guided.3",
+        "license": "https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/0622f856e509ad4e7ee753dbed64f6ec1eaf7686/LICENSE",
+        "softwareHelp": {
+          "@type": "CreativeWork",
+          "url": "https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/0622f856e509ad4e7ee753dbed64f6ec1eaf7686/GUIDE.md"
+        },
+        "runtimePlatform": "Chrome or Edge",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/download/v0.1.0-preview.20261011-guided.3/monthly-reconcile-0.1.0-preview.20261011-source-guided3.zip",
+        "codeRepository": "https://github.com/USHIKUNDESUYO/monthly-reconcile"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "YUHITSU 全機能無料版",
+        "url": "https://github.com/USHIKUNDESUYO/yuhitsu-free",
+        "description": "監査調書の下書き、開示チェック、CSV照合、OCRを利用できます。個人・法人の業務で無料で使えるWindows向け配布版です。本体の改変・販売・再配布は、利用条件では許諾されていません。",
+        "creator": {
+          "@type": "Person",
+          "name": "星野宇潮",
+          "url": "https://invaders.co.jp/members/hoshino-ushio.html"
+        },
+        "isAccessibleForFree": true,
+        "softwareVersion": "v0.1.1-free.20261011",
+        "license": "https://github.com/USHIKUNDESUYO/yuhitsu-free/blob/36711a4c735fc4bde43791defa06bd825d3f5137/LICENSE.txt",
+        "operatingSystem": "Windows 10/11 x64",
+        "softwareHelp": {
+          "@type": "CreativeWork",
+          "url": "https://invaders.co.jp/yuhitsu/guide/"
+        },
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/yuhitsu-free/releases/download/v0.1.1-free.20261011/YUHITSU-free-windows-x64-v0.1.1-free.20261011.zip"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": [
+          "SoftwareApplication",
+          "SoftwareSourceCode"
+        ],
+        "name": "shiwake-mcp",
+        "url": "https://github.com/USHIKUNDESUYO/shiwake-mcp",
+        "description": "仕訳データをルールで一次スクリーニングします。AIツールから呼び出す接続方式MCPに対応し、MITライセンスで公開しています。",
+        "creator": {
+          "@type": "Person",
+          "name": "星野宇潮",
+          "url": "https://invaders.co.jp/members/hoshino-ushio.html"
+        },
+        "isAccessibleForFree": true,
+        "softwareVersion": "0.3.1",
+        "license": "https://github.com/USHIKUNDESUYO/shiwake-mcp/blob/ee39b6c51c50e4b5ff68ea09a10645db315c5310/LICENSE",
+        "softwareHelp": {
+          "@type": "CreativeWork",
+          "url": "https://github.com/USHIKUNDESUYO/shiwake-mcp/blob/ee39b6c51c50e4b5ff68ea09a10645db315c5310/README.md"
+        },
+        "runtimePlatform": "Node.js >=20",
+        "installUrl": "https://www.npmjs.com/package/shiwake-mcp/v/0.3.1",
+        "codeRepository": "https://github.com/USHIKUNDESUYO/shiwake-mcp"
+      }
+    }
+  ]
+}

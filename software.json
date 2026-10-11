@@ -3,7 +3,7 @@
   "@type": "ItemList",
   "@id": "https://github.com/USHIKUNDESUYO/USHIKUNDESUYO/blob/main/software.json",
   "name": "星野宇潮の無料会計ツール（2026年10月11日確認版）",
-  "numberOfItems": 4,
+  "numberOfItems": 5,
   "itemListOrder": "https://schema.org/ItemListUnordered",
   "itemListElement": [
     {
@@ -112,6 +112,35 @@
         "applicationCategory": "EducationalApplication",
         "downloadUrl": "https://github.com/USHIKUNDESUYO/audit-interest-demo/archive/b39d32111396420903a977924beb72333b2d8249.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/audit-interest-demo"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": [
+          "SoftwareApplication",
+          "SoftwareSourceCode"
+        ],
+        "name": "Jev会計 無料公開プレビュー",
+        "url": "https://github.com/USHIKUNDESUYO/jev-kaikei-free",
+        "description": "見本の取引を手元のキーワードで分類し、人が仕訳の下書きを確認してCSV・JSONに保存する、MITライセンスの試作ツールです。ライブAPIは別途契約と料金の確認が必要です。",
+        "creator": {
+          "@type": "Person",
+          "name": "星野宇潮",
+          "url": "https://invaders.co.jp/members/hoshino-ushio.html"
+        },
+        "isAccessibleForFree": true,
+        "license": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/439ae93b795500be1170bb862f226f2948a2817d/LICENSE",
+        "softwareVersion": "v0.1.0-preview.20261011",
+        "softwareHelp": {
+          "@type": "CreativeWork",
+          "url": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/439ae93b795500be1170bb862f226f2948a2817d/README.md"
+        },
+        "runtimePlatform": "Python >=3.10 (standard library)",
+        "applicationCategory": "BusinessApplication",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/download/v0.1.0-preview.20261011/jev-kaikei-free-v0.1.0-preview.20261011.zip",
+        "codeRepository": "https://github.com/USHIKUNDESUYO/jev-kaikei-free"
       }
     }
   ]

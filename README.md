@@ -27,7 +27,7 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 
 - [監査利息デモ](https://github.com/USHIKUNDESUYO/audit-interest-demo)：架空データで支払利息の推定額と計上額の差を確かめる、MITライセンスの教材です。Pythonの標準ライブラリだけで動きます。
 
-- [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free)：見本の取引を分類し、人が仕訳を確認してCSV・JSONへ保存できます。モックは外部APIを使わず動き、ソースはMITで再利用できます。[入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261012-storage.1)
+- [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free)：見本の取引を分類し、人が仕訳を確認してCSV・JSONへ保存できます。モックは外部APIを使わず動き、ソースはMITで再利用できます。[入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261012-input.1)
 
 - [証憑研究版の評価JSON集計ツール](https://github.com/USHIKUNDESUYO/shohyo-metrics-source)：保存済みJSONを集計するMITの研究用ソースです。Python標準機能だけで動き、OCRとモデル重みは含みません。[入手先](https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/tag/v0.1.0-source-preview.20261011)
 

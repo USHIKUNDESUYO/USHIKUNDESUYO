@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "@id": "https://github.com/USHIKUNDESUYO/USHIKUNDESUYO/blob/main/software.json",
-  "name": "星野宇潮の無料会計ツール（2026年10月11日確認版）",
+  "name": "星野宇潮の無料会計ツール（Jev会計の入手先を2026年10月12日更新）",
   "numberOfItems": 6,
   "itemListOrder": "https://schema.org/ItemListUnordered",
   "itemListElement": [
@@ -132,14 +132,14 @@
         },
         "isAccessibleForFree": true,
         "license": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/439ae93b795500be1170bb862f226f2948a2817d/LICENSE",
-        "softwareVersion": "v0.1.0-preview.20261011",
+        "softwareVersion": "v0.1.0-preview.20261012-json.1",
         "softwareHelp": {
           "@type": "CreativeWork",
-          "url": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/439ae93b795500be1170bb862f226f2948a2817d/README.md"
+          "url": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/e052dff714b2d60fd4d6262da3c6908917c0c767/README.md"
         },
         "runtimePlatform": "Python >=3.10 (standard library)",
         "applicationCategory": "BusinessApplication",
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/download/v0.1.0-preview.20261011/jev-kaikei-free-v0.1.0-preview.20261011.zip",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/download/v0.1.0-preview.20261012-json.1/jev-kaikei-free-v0.1.0-preview.20261012-json.1.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/jev-kaikei-free"
       }
     },

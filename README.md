@@ -21,19 +21,22 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 
 ## 無料で試せる会計ツール
 
-- [月次照合](https://github.com/USHIKUNDESUYO/monthly-reconcile)：帳簿と請求のCSVから照合候補を出し、確認した判断を保存できます。ブラウザーで使うMITライセンスのツールです。[入手先](https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/tag/v0.1.0-preview.20261011-guided.3)
-- [YUHITSU全機能無料版](https://github.com/USHIKUNDESUYO/yuhitsu-free)：Windows向け。監査調書の下書き、開示チェック、CSV照合、OCRを利用できます。[使い方](https://invaders.co.jp/yuhitsu/guide/)と[利用条件](https://github.com/USHIKUNDESUYO/yuhitsu-free/blob/main/LICENSE.txt)を確認してください。
-- [shiwake-mcp](https://github.com/USHIKUNDESUYO/shiwake-mcp)：仕訳をルールで一次スクリーニングします。AIツールから呼び出すための接続方式MCPに対応し、MITライセンスで公開しています。
+やりたい作業の行から、入手先と使い方を選んでください。6製品の用途と、起動に必要な環境をまとめました。
 
-- [監査利息デモ](https://github.com/USHIKUNDESUYO/audit-interest-demo)：架空データで支払利息の推定額と計上額の差を確かめる、MITライセンスの教材です。Pythonの標準ライブラリだけで動きます。 [入手先](https://github.com/USHIKUNDESUYO/audit-interest-demo/releases/tag/v0.1.1-preview.20261013-input.1)
+| やりたい作業 | ツール | 必要な環境 | 入手先・使い方 |
+|---|---|---|---|
+| 帳簿と請求の対応を確認し、判断を保存する | [月次照合](https://github.com/USHIKUNDESUYO/monthly-reconcile) | ChromeまたはEdge | [入手先](https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/tag/v0.1.0-preview.20261011-guided.3)・[使い方](https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/10aea1a8abf487113db661fb21792d6cd7619fd9/GUIDE.md) |
+| 監査調書の下書き・開示チェック・CSV照合・OCRを使う | [YUHITSU全機能無料版](https://github.com/USHIKUNDESUYO/yuhitsu-free) | Windows 10/11の64ビットPC | [入手先](https://github.com/USHIKUNDESUYO/yuhitsu-free/releases/tag/v0.1.6-free.20261011)・[使い方](https://invaders.co.jp/yuhitsu/guide/) |
+| 仕訳データを一次スクリーニングする | [shiwake-mcp](https://github.com/USHIKUNDESUYO/shiwake-mcp) | Node.js 20以上。AIツールから使う場合はMCP接続 | [入手先](https://www.npmjs.com/package/shiwake-mcp/v/0.3.1)・[使い方](https://github.com/USHIKUNDESUYO/shiwake-mcp/blob/ee39b6c51c50e4b5ff68ea09a10645db315c5310/README.md) |
+| 架空データで支払利息の差を確かめる | [監査利息デモ](https://github.com/USHIKUNDESUYO/audit-interest-demo) | Python 3.10以上（標準ライブラリ） | [入手先](https://github.com/USHIKUNDESUYO/audit-interest-demo/releases/tag/v0.1.1-preview.20261013-input.1)・[使い方](https://github.com/USHIKUNDESUYO/audit-interest-demo/blob/v0.1.1-preview.20261013-input.1/README.md) |
+| 見本の取引を分類し、仕訳を確認・保存する | [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free) | Python 3.10以上とブラウザー。まずモックで試す | [入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261013-saved-review.1)・[使い方](https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/v0.1.0-preview.20261013-saved-review.1/README.md) |
+| 保存済みの評価JSONを集計する | [証憑研究版の評価JSON集計ツール](https://github.com/USHIKUNDESUYO/shohyo-metrics-source) | Python 3.10以上（標準ライブラリ） | [入手先](https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/tag/v0.1.2-source-preview.20261013)・[使い方](https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/v0.1.2-source-preview.20261013/README.md) |
 
-- [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free)：見本の取引を分類し、人が仕訳を確認してCSV・JSONへ保存できます。モックは外部APIを使わず動き、ソースはMITで再利用できます。[入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261013-saved-review.1)
+月次照合・shiwake-mcp・監査利息デモ・Jev会計・証憑研究版の集計ツールはMITライセンスです。同梱の著作権表示と許諾文を残して、利用・改変・再配布できます。YUHITSU全機能無料版は個人・法人の業務で無料利用できますが、本体の改変・販売・再配布はこの配布版の[利用条件](https://github.com/USHIKUNDESUYO/yuhitsu-free/blob/bf63b64ed3c218ab14002c71f93bf781bd36d226/LICENSE.txt)では許諾されていません。第三者のソフトウェアには、それぞれのライセンスが適用されます。
 
-- [証憑研究版の評価JSON集計ツール](https://github.com/USHIKUNDESUYO/shohyo-metrics-source)：保存済みJSONの率と正誤の入力形式を確認して集計する、MITの研究用ソースです。Python標準機能だけで動き、OCRとモデル重みは含みません。[入手先](https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/tag/v0.1.2-source-preview.20261013)
+shiwake-mcpは、AIツールから呼び出すための接続方式MCPに対応します。監査利息デモは教材、証憑研究版の集計ツールは研究用です。Jev会計のモックでは外部APIを使いません。ライブAPIを使う場合は、別途契約と費用の確認が必要です。各製品の案内で、出力の範囲と利用者が確認する箇所を確かめてください。
 
-6製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。Jev会計の入手先は2026年10月13日の保存候補形式の確認版へ更新しました。証憑研究版の集計ツールは、2026年10月12日の評価JSONの入力確認版へ更新しました。
-
-監査利息デモの入手先は、2026年10月13日のJSON入力の確認版へ更新しました。
+配布版・入手先・利用条件・作者は、[JSON一覧](./software.json)にもまとめています。
 
 ## 🏯 SEKISHO（関所）
 
@@ -52,5 +55,3 @@ An AI deployment gate where agents never approve — they only return refutation
 - note: https://note.com/ushikun_desu
 - LinkedIn: https://www.linkedin.com/in/ushiohoshino/
 - Wikidata: [Q140668335](https://www.wikidata.org/wiki/Q140668335)
-
-証憑研究版の集計ツールは、2026年10月13日に評価JSONの重複した項目名を検出する確認版へ更新しました。率や正誤の値を黙って選ばず、集計前に停止します。

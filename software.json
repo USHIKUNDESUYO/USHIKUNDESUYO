@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "@id": "https://github.com/USHIKUNDESUYO/USHIKUNDESUYO/blob/main/software.json",
-  "name": "星野宇潮の無料会計ツール（Jev会計と証憑研究版の入手先を2026年10月12日更新）",
+  "name": "星野宇潮の無料会計ツール（監査利息デモの入手先を2026年10月13日更新）",
   "numberOfItems": 6,
   "itemListOrder": "https://schema.org/ItemListUnordered",
   "itemListElement": [
@@ -106,12 +106,13 @@
         "license": "https://github.com/USHIKUNDESUYO/audit-interest-demo/blob/b39d32111396420903a977924beb72333b2d8249/LICENSE",
         "softwareHelp": {
           "@type": "CreativeWork",
-          "url": "https://github.com/USHIKUNDESUYO/audit-interest-demo/blob/b39d32111396420903a977924beb72333b2d8249/README.md"
+          "url": "https://github.com/USHIKUNDESUYO/audit-interest-demo/blob/v0.1.1-preview.20261013-input.1/README.md"
         },
         "runtimePlatform": "Python >=3.10 (standard library)",
         "applicationCategory": "EducationalApplication",
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/audit-interest-demo/archive/b39d32111396420903a977924beb72333b2d8249.zip",
-        "codeRepository": "https://github.com/USHIKUNDESUYO/audit-interest-demo"
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/audit-interest-demo/releases/download/v0.1.1-preview.20261013-input.1/audit-interest-demo-v0.1.1-preview.20261013-input.1.zip",
+        "codeRepository": "https://github.com/USHIKUNDESUYO/audit-interest-demo",
+        "softwareVersion": "v0.1.1-preview.20261013-input.1"
       }
     },
     {

@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "@id": "https://github.com/USHIKUNDESUYO/USHIKUNDESUYO/blob/main/software.json",
-  "name": "星野宇潮の無料会計ツール（監査利息デモの入手先を2026年10月13日更新）",
+  "name": "星野宇潮の無料会計ツール（証憑研究版の入手先を2026年10月13日更新）",
   "numberOfItems": 6,
   "itemListOrder": "https://schema.org/ItemListUnordered",
   "itemListElement": [
@@ -162,14 +162,14 @@
         },
         "isAccessibleForFree": true,
         "license": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/ad6b043268302152edbfed2f48b22d447bef9399/LICENSE",
-        "softwareVersion": "v0.1.1-source-preview.20261012",
+        "softwareVersion": "v0.1.2-source-preview.20261013",
         "softwareHelp": {
           "@type": "CreativeWork",
-          "url": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/v0.1.1-source-preview.20261012/README.md"
+          "url": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/v0.1.2-source-preview.20261013/README.md"
         },
         "runtimePlatform": "Python >=3.10 (standard library)",
         "applicationCategory": "DeveloperApplication",
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/download/v0.1.1-source-preview.20261012/shohyo-metrics-source-v0.1.1-source-preview.20261012.zip",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/download/v0.1.2-source-preview.20261013/shohyo-metrics-source-v0.1.2-source-preview.20261013.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source"
       }
     }

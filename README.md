@@ -27,11 +27,11 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 
 - [監査利息デモ](https://github.com/USHIKUNDESUYO/audit-interest-demo)：架空データで支払利息の推定額と計上額の差を確かめる、MITライセンスの教材です。Pythonの標準ライブラリだけで動きます。 [入手先](https://github.com/USHIKUNDESUYO/audit-interest-demo/releases/tag/v0.1.1-preview.20261013-input.1)
 
-- [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free)：見本の取引を分類し、人が仕訳を確認してCSV・JSONへ保存できます。モックは外部APIを使わず動き、ソースはMITで再利用できます。[入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261013-bank.1)
+- [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free)：見本の取引を分類し、人が仕訳を確認してCSV・JSONへ保存できます。モックは外部APIを使わず動き、ソースはMITで再利用できます。[入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261013-numbers.1)
 
 - [証憑研究版の評価JSON集計ツール](https://github.com/USHIKUNDESUYO/shohyo-metrics-source)：保存済みJSONの率と正誤の入力形式を確認して集計する、MITの研究用ソースです。Python標準機能だけで動き、OCRとモデル重みは含みません。[入手先](https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/tag/v0.1.2-source-preview.20261013)
 
-6製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。Jev会計の入手先は2026年10月13日の入出金の確認版へ更新しました。証憑研究版の集計ツールは、2026年10月12日の評価JSONの入力確認版へ更新しました。
+6製品の確認版と入手先、利用条件、作者をまとめた[JSON一覧](./software.json)も公開しています。Jev会計の入手先は2026年10月13日のCSV金額の確認版へ更新しました。証憑研究版の集計ツールは、2026年10月12日の評価JSONの入力確認版へ更新しました。
 
 監査利息デモの入手先は、2026年10月13日のJSON入力の確認版へ更新しました。
 

@@ -23,14 +23,14 @@
           "url": "https://invaders.co.jp/members/hoshino-ushio.html"
         },
         "isAccessibleForFree": true,
-        "softwareVersion": "v0.1.0-preview.20261011-guided.3",
+        "softwareVersion": "v0.1.0-preview.20261014-guides.1",
         "license": "https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/0622f856e509ad4e7ee753dbed64f6ec1eaf7686/LICENSE",
         "softwareHelp": {
           "@type": "CreativeWork",
-          "url": "https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/10aea1a8abf487113db661fb21792d6cd7619fd9/GUIDE.md"
+          "url": "https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/main/GUIDE.md"
         },
         "runtimePlatform": "Chrome or Edge",
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/download/v0.1.0-preview.20261011-guided.3/monthly-reconcile-0.1.0-preview.20261011-source-guided3.zip",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/download/v0.1.0-preview.20261014-guides.1/monthly-reconcile-0.1.0-preview.20261014-guides1.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/monthly-reconcile"
       }
     },

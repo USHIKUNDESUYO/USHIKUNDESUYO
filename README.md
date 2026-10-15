@@ -23,10 +23,12 @@ An AI audit-support tool for auditors. It drafts audit working papers from accou
 
 やりたい作業の行から、入手先と使い方を選んでください。6製品の用途と、起動に必要な環境をまとめました。
 
+架空データで照合や利益と現金の計算を試すには、[会計AI検証室](https://www.invaders.co.jp/lab/hoshino-cpa-lab/)を開いてください。入力条件・処理結果・出典も確認できます。自分の資料を扱う製品は、下の表から選べます。
+
 | やりたい作業 | ツール | 必要な環境 | 入手先・使い方 |
 |---|---|---|---|
 | 帳簿と請求の対応を確認し、判断を保存する | [月次照合](https://github.com/USHIKUNDESUYO/monthly-reconcile) | ChromeまたはEdge | [入手先](https://github.com/USHIKUNDESUYO/monthly-reconcile/releases/tag/v0.1.0-preview.20261014-guides.1)・[使い方](https://github.com/USHIKUNDESUYO/monthly-reconcile/blob/main/GUIDE.md) |
-| 監査調書の下書き・開示チェック・CSV照合・OCRを使う | [YUHITSU全機能無料版](https://github.com/USHIKUNDESUYO/yuhitsu-free) | Windows 10/11の64ビットPC | [入手先](https://github.com/USHIKUNDESUYO/yuhitsu-free/releases/tag/v0.1.6-free.20261011)・[使い方](https://invaders.co.jp/yuhitsu/guide/) |
+| 監査調書の下書き・開示チェック・CSV照合・OCRを使う | [YUHITSU全機能無料版](https://github.com/USHIKUNDESUYO/yuhitsu-free) | Windows 10/11の64ビットPC | [入手先](https://github.com/USHIKUNDESUYO/yuhitsu-free/releases/tag/v0.1.8-free.20261014)・[使い方](https://invaders.co.jp/yuhitsu/guide/) |
 | 仕訳データを一次スクリーニングする | [shiwake-mcp](https://github.com/USHIKUNDESUYO/shiwake-mcp) | Node.js 20以上。AIツールから使う場合はMCP接続 | [入手先](https://www.npmjs.com/package/shiwake-mcp/v/0.3.1)・[使い方](https://github.com/USHIKUNDESUYO/shiwake-mcp/blob/ee39b6c51c50e4b5ff68ea09a10645db315c5310/README.md) |
 | 架空データで支払利息の差を確かめる | [監査利息デモ](https://github.com/USHIKUNDESUYO/audit-interest-demo) | Python 3.10以上（標準ライブラリ） | [入手先](https://github.com/USHIKUNDESUYO/audit-interest-demo/releases/tag/v0.1.1-preview.20261013-input.1)・[使い方](https://github.com/USHIKUNDESUYO/audit-interest-demo/blob/v0.1.1-preview.20261013-input.1/README.md) |
 | 見本の取引を分類し、仕訳を確認・保存する | [Jev会計の無料プレビュー](https://github.com/USHIKUNDESUYO/jev-kaikei-free) | Python 3.10以上とブラウザー。まずモックで試す | [入手先](https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/tag/v0.1.0-preview.20261013-saved-review.1)・[使い方](https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/v0.1.0-preview.20261013-saved-review.1/README.md) |

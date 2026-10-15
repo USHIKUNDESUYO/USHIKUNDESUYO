@@ -48,14 +48,14 @@
           "url": "https://invaders.co.jp/members/hoshino-ushio.html"
         },
         "isAccessibleForFree": true,
-        "softwareVersion": "v0.1.8-free.20261014",
+        "softwareVersion": "v0.1.9-free.20261014",
         "license": "https://github.com/USHIKUNDESUYO/yuhitsu-free/blob/bf63b64ed3c218ab14002c71f93bf781bd36d226/LICENSE.txt",
         "operatingSystem": "Windows 10/11 x64",
         "softwareHelp": {
           "@type": "CreativeWork",
           "url": "https://invaders.co.jp/yuhitsu/guide/"
         },
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/yuhitsu-free/releases/download/v0.1.8-free.20261014/YUHITSU-free-windows-x64-v0.1.8-free.20261014.zip"
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/yuhitsu-free/releases/download/v0.1.9-free.20261014/YUHITSU-free-windows-x64-v0.1.9-free.20261014.zip"
       }
     },
     {

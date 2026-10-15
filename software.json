@@ -133,14 +133,14 @@
         },
         "isAccessibleForFree": true,
         "license": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/439ae93b795500be1170bb862f226f2948a2817d/LICENSE",
-        "softwareVersion": "v0.1.0-preview.20261013-saved-review.1",
+        "softwareVersion": "v0.1.0-preview.20261015-csv-direction.1",
         "softwareHelp": {
           "@type": "CreativeWork",
-          "url": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/v0.1.0-preview.20261013-saved-review.1/README.md"
+          "url": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/blob/v0.1.0-preview.20261015-csv-direction.1/README.md"
         },
         "runtimePlatform": "Python >=3.10 (standard library)",
         "applicationCategory": "BusinessApplication",
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/download/v0.1.0-preview.20261013-saved-review.1/jev-kaikei-free-v0.1.0-preview.20261013-saved-review.1.zip",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/jev-kaikei-free/releases/download/v0.1.0-preview.20261015-csv-direction.1/jev-kaikei-free-v0.1.0-preview.20261015-csv-direction.1.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/jev-kaikei-free"
       }
     },

@@ -162,14 +162,14 @@
         },
         "isAccessibleForFree": true,
         "license": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/ad6b043268302152edbfed2f48b22d447bef9399/LICENSE",
-        "softwareVersion": "v0.1.3-source-preview.20261013",
+        "softwareVersion": "v0.1.4-source-preview.20261026",
         "softwareHelp": {
           "@type": "CreativeWork",
-          "url": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/v0.1.3-source-preview.20261013/README.md"
+          "url": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/blob/v0.1.4-source-preview.20261026/README.md"
         },
         "runtimePlatform": "Python >=3.10 (standard library)",
         "applicationCategory": "DeveloperApplication",
-        "downloadUrl": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/download/v0.1.3-source-preview.20261013/shohyo-metrics-source-v0.1.3-source-preview.20261013.zip",
+        "downloadUrl": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source/releases/download/v0.1.4-source-preview.20261026/shohyo-metrics-source-v0.1.4-source-preview.20261026.zip",
         "codeRepository": "https://github.com/USHIKUNDESUYO/shohyo-metrics-source"
       }
     }
